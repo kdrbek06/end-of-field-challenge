@@ -1,0 +1,25 @@
+* { margin: 0 auto;
+    padding: 0;
+
+}
+
+body{
+    width: 80%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+}
+
+header{
+
+}
+
+img{
+
+
+}
