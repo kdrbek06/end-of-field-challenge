@@ -1,17 +1,13 @@
-/* *{
-    margin: 0 auto;
-    padding: 0;
-} */
-
-body{
+*{
+    margin: 0.75em auto;
+}
+body {
     font-family: 'Roboto', sans-serif;
     max-width: 300px;
-    min-height: 400px;
+    min-height: 500px;
+    color: rgba(0, 0, 0, 0.719);
 }
-
-
-
-.row{
+.row {
     line-height: 1.6;
 }
 
