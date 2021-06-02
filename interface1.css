@@ -1,0 +1,26 @@
+/* *{
+    margin: 0 auto;
+    padding: 0;
+} */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    max-width: 300px;
+    min-height: 400px;
+}
+
+
+
+.row{
+    line-height: 1.6;
+}
+
+h3 {
+    display: inline;
+}
+
+h2 {
+    color: #FF7A00;
+}
+
+
