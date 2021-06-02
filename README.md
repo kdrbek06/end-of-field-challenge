@@ -1,4 +1,4 @@
-# end-of-field-challenge
-<<<<<<< HEAD
 
-https://kdrbek06.github.io/end-of-field-challenge/
+this link has 2 projects
+
+https://kdrbek06.github.io/end-of-field-challenge/index.html
